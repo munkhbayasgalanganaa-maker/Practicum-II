@@ -1,0 +1,4 @@
+category,column_used,source,mean_signed_delta,mean_abs_delta
+Transportation,cpi_transportation,direct,1.4246666666666528,8.398166666666663
+Food,cpi_food_beverage,direct,6.540055555555568,6.540055555555568
+Shelter,cpi_housing,direct,5.458305555555559,5.458305555555559

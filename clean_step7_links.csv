@@ -1,0 +1,4 @@
+category,column_used,source,best_lag_months,best_corr,abs_corr
+Shelter,cpi_housing,direct,0,0.05681725841052901,0.05681725841052901
+Transportation,cpi_transportation,direct,12,-0.053100291947837094,0.053100291947837094
+Food,cpi_food_beverage,direct,0,0.03578126238968682,0.03578126238968682
