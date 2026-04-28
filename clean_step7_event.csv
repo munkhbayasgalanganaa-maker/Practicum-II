@@ -1,0 +1,19 @@
+category,event,delta_post_minus_pre
+Food,9/11 Attacks,2.45
+Food,Iraq War Start,2.7
+Food,Crimea Conflict Escalation,4.18
+Food,COVID Global Shock,7.8
+Food,Russia-Ukraine Full-Scale Invasion,17.78
+Food,Middle East Escalation,4.33
+Transportation,9/11 Attacks,-5.08
+Transportation,Iraq War Start,0.22
+Transportation,Crimea Conflict Escalation,0.33
+Transportation,COVID Global Shock,-15.84
+Transportation,Russia-Ukraine Full-Scale Invasion,25.2
+Transportation,Middle East Escalation,3.72
+Shelter,9/11 Attacks,1.8
+Shelter,Iraq War Start,2.6
+Shelter,Crimea Conflict Escalation,3.92
+Shelter,COVID Global Shock,2.82
+Shelter,Russia-Ukraine Full-Scale Invasion,12.82
+Shelter,Middle East Escalation,8.78

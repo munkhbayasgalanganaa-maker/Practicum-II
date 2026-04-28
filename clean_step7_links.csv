@@ -1,0 +1,6 @@
+channel,best_lag_months,best_corr,abs_corr
+Oil -> Gas,0,0.884,0.884
+USD -> Oil,1,-0.517,0.517
+Gas -> CPI,2,0.269,0.269
+GPR -> VIX,11,-0.159,0.159
+GPR -> Oil,12,-0.131,0.131

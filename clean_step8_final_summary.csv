@@ -1,0 +1,8 @@
+target,model,RMSE,R2,model_takeaway,project_story
+cpi_all_items,LagLinear,0.7809119451317905,0.9939175850458101,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+fed_funds,LagLinear,0.18984661024179317,0.9772771410140773,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+gas_retail,LagLinear,0.2162895072746945,0.7434788584327237,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+oil_wti,LagLinear,6.095754956059822,0.7443848738057539,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+unemployment_rate,LagLinear,0.17243732883946422,0.6813205918820167,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+usd_index,LagLinear,1.5258154557573362,0.692052240757466,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
+vix,LagLinear,3.4021015364808562,0.5193961093828323,Recent history dominates short-horizon prediction.,Strongest transmission path: Oil -> Gas. Shocks hit energy before CPI. Transportation is the most event-sensitive CPI category.
