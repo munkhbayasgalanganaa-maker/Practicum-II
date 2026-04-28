@@ -150,7 +150,7 @@ pip install -r requirements.txt
 streamlit run practicum2_macro_ai_app.py
 ```
 
-Then open `http://localhost:8501` in your browser.
+Then open `(https://5df9bjbppwrdnvl8kd77bs.streamlit.app/)` in your browser.
 
 ---
 
