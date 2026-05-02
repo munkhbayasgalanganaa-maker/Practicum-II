@@ -116,7 +116,7 @@ Transportation prices react the most to geopolitical events:
 
 ```
 Practicum-II/
-├── Practicum_II_Clean_Final.ipynb     ← Main analysis notebook (clean, organized)
+├── Practicum_II_GPR and CPI_Mugi.ipynb     ← Main analysis notebook (clean, organized)
 ├── practicum2_macro_ai_app.py         ← Streamlit dashboard app
 ├── requirements.txt                   ← Python dependencies
 ├── clean_step5_results.csv            ← Model performance results
