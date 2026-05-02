@@ -1,4 +1,4 @@
-# Practicum II: Predictive Analysis on How Geopolitical Risk Affects U.S. CPI, Energy, and Macroeconomics
+# Practicum II: Predictive Analysis on Geopolitical Risk Affects U.S. CPI, Energy, and Macroeconomics
 
 **Student:** Munkhbayasgalan Ganaa  
 **Program:** MS Data Science  
