@@ -21,7 +21,7 @@ This project studies whether geopolitical events around the world  like wars, co
 
 I built an interactive web dashboard to visualize all project results:
 
-🔗 **[Launch Dashboard](https://db3jybx6evdfqvvskkhmh5.streamlit.app)**
+🔗 **[Launch Dashboard](https://5df9bjbppwrdnvl8kd77bs.streamlit.app/)**
 
 The dashboard has 5 tabs:
 - **Data Health** — checks all CSV files are loaded correctly
